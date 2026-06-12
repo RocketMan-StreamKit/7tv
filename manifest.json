@@ -1,0 +1,22 @@
+{
+  "name": {
+    "en": "7TV",
+    "ru": "7TV",
+    "uk": "7TV"
+  },
+  "description": {
+    "en": "Replaces 7TV emotes in Twitch chat with images (global and channel sets).",
+    "ru": "Заменяет 7TV-смайлы в чате Twitch на картинки (глобальные и канальные наборы).",
+    "uk": "Замінює 7TV-смайли в чаті Twitch на зображення (глобальні та канальні набори)."
+  },
+  "type": "platform.streaming",
+  "version": "1.0.0",
+  "author": "RocketMan System",
+  "icon": "logo.png",
+  "depends_on": ["twitch"],
+  "permissions": [
+    "NETWORK_REQUEST",
+    "NETWORK_WEBSOCKET",
+    "DASHBOARD_CHAT"
+  ]
+}
