@@ -11,7 +11,7 @@
     "uk": "Замінює 7TV-смайли в чаті Twitch на зображення (глобальні та канальні набори)."
   },
   "type": "platform.streaming",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "RocketMan System",
   "icon": "logo.png",
   "depends_on": [
